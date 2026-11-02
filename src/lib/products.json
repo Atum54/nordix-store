@@ -1,0 +1,479 @@
+[
+  {
+    "id": "NDX-001",
+    "sourceRow": 3,
+    "name": "Сетевое зарядное устройство 45W с кабелем",
+    "price": 900,
+    "price5": 700,
+    "price10": 500,
+    "note": "",
+    "images": [
+      "/products/product-03-01.png"
+    ],
+    "category": "Зарядки"
+  },
+  {
+    "id": "NDX-002",
+    "sourceRow": 4,
+    "name": "Внешний аккумулятор Redmi 10 000",
+    "price": 1600,
+    "price5": 1400,
+    "price10": 1200,
+    "note": "",
+    "images": [
+      "/products/product-04-02.png"
+    ],
+    "category": "Аккумуляторы"
+  },
+  {
+    "id": "NDX-003",
+    "sourceRow": 5,
+    "name": "Сетевое зарядное устройство 45W с кабелем",
+    "price": 900,
+    "price5": 700,
+    "price10": 490,
+    "note": "",
+    "images": [
+      "/products/product-05-03.png"
+    ],
+    "category": "Зарядки"
+  },
+  {
+    "id": "NDX-004",
+    "sourceRow": 6,
+    "name": "Сетевое зарядное устройство 25W с кабелем",
+    "price": 700,
+    "price5": 500,
+    "price10": 330,
+    "note": "",
+    "images": [
+      "/products/product-06-06.png"
+    ],
+    "category": "Зарядки"
+  },
+  {
+    "id": "NDX-005",
+    "sourceRow": 7,
+    "name": "Внешний аккумулятор Mi Wireless",
+    "price": 1800,
+    "price5": 1600,
+    "price10": 1500,
+    "note": "",
+    "images": [
+      "/products/product-07-04.png",
+      "/products/product-07-07.png"
+    ],
+    "category": "Аккумуляторы"
+  },
+  {
+    "id": "NDX-006",
+    "sourceRow": 8,
+    "name": "Беспроводная зарядка MagSafe Charger 15W",
+    "price": 350,
+    "price5": 200,
+    "price10": 180,
+    "note": "",
+    "images": [],
+    "category": "Зарядки"
+  },
+  {
+    "id": "NDX-007",
+    "sourceRow": 9,
+    "name": "Наушники EarPods (Type-C)оригинал",
+    "price": 1500,
+    "price5": 1300,
+    "price10": 1200,
+    "note": "",
+    "images": [
+      "/products/product-09-08.png"
+    ],
+    "category": "Наушники"
+  },
+  {
+    "id": "NDX-008",
+    "sourceRow": 10,
+    "name": "Внешний аккумулятор MagSafe Battery Pack 5 000",
+    "price": 800,
+    "price5": 600,
+    "price10": 500,
+    "note": "",
+    "images": [
+      "/products/product-10-09.png",
+      "/products/product-10-10.png"
+    ],
+    "category": "Аккумуляторы"
+  },
+  {
+    "id": "NDX-009",
+    "sourceRow": 11,
+    "name": "Плетёный кабель Type-C to Type-C 60W 1 метр без коробки с ключом",
+    "price": 500,
+    "price5": 350,
+    "price10": 250,
+    "note": "",
+    "images": [],
+    "category": "Кабели"
+  },
+  {
+    "id": "NDX-010",
+    "sourceRow": 12,
+    "name": "Внешний аккумулятор Mi Wireless",
+    "price": 1800,
+    "price5": 1600,
+    "price10": 1500,
+    "note": "",
+    "images": [
+      "/products/product-12-05.png"
+    ],
+    "category": "Аккумуляторы"
+  },
+  {
+    "id": "NDX-011",
+    "sourceRow": 13,
+    "name": "Беспроводные наушники Galaxy Buds3 Pro",
+    "price": 900,
+    "price5": 700,
+    "price10": 600,
+    "note": "",
+    "images": [
+      "/products/product-13-11.png"
+    ],
+    "category": "Наушники"
+  },
+  {
+    "id": "NDX-012",
+    "sourceRow": 14,
+    "name": "Силиконовый чехол на Pods 3 / Pro 2 / 4 / Pro 3",
+    "price": null,
+    "price5": null,
+    "price10": null,
+    "note": "",
+    "images": [
+      "/products/product-14-12.png"
+    ],
+    "category": "Наушники"
+  },
+  {
+    "id": "NDX-013",
+    "sourceRow": 15,
+    "name": "Сетевое зарядное устройство 12W USB-C",
+    "price": 300,
+    "price5": 250,
+    "price10": 200,
+    "note": "",
+    "images": [
+      "/products/product-15-13.png"
+    ],
+    "category": "Зарядки"
+  },
+  {
+    "id": "NDX-014",
+    "sourceRow": 16,
+    "name": "Кабель Type-C to IPhone 1 метр без коробки и ключа",
+    "price": 450,
+    "price5": 350,
+    "price10": 300,
+    "note": "",
+    "images": [
+      "/products/product-16-14.png"
+    ],
+    "category": "Кабели"
+  },
+  {
+    "id": "NDX-015",
+    "sourceRow": 17,
+    "name": "Микрофибра Polishing Cloth для дисплея",
+    "price": 250,
+    "price5": 200,
+    "price10": 150,
+    "note": "",
+    "images": [
+      "/products/product-17-15.png"
+    ],
+    "category": "Чехлы и аксессуары"
+  },
+  {
+    "id": "NDX-016",
+    "sourceRow": 18,
+    "name": "Смарт Часы Watch Ultra 2 49 mm",
+    "price": 1500,
+    "price5": 1200,
+    "price10": 1100,
+    "note": "в наличии разные модели и\n разные цены уточнять",
+    "images": [
+      "/products/product-18-16.png"
+    ],
+    "category": "Гаджеты"
+  },
+  {
+    "id": "NDX-017",
+    "sourceRow": 19,
+    "name": "Беспроводные наушники Pods 3 Airoha JL коробка класса B",
+    "price": 1500,
+    "price5": 1200,
+    "price10": 1000,
+    "note": "",
+    "images": [
+      "/products/product-19-17.png",
+      "/products/product-19-18.png"
+    ],
+    "category": "Наушники"
+  },
+  {
+    "id": "NDX-018",
+    "sourceRow": 20,
+    "name": "Комплект быстрой зарядки для iPhone Type-C и Type-C to Type-C",
+    "price": 900,
+    "price5": 700,
+    "price10": 550,
+    "note": "",
+    "images": [],
+    "category": "Зарядки"
+  },
+  {
+    "id": "NDX-019",
+    "sourceRow": 21,
+    "name": "Плетёный кабель Type-C to Type-C 60W 1 метр",
+    "price": 500,
+    "price5": 450,
+    "price10": 350,
+    "note": "",
+    "images": [
+      "/products/product-21-19.png"
+    ],
+    "category": "Кабели"
+  },
+  {
+    "id": "NDX-020",
+    "sourceRow": 22,
+    "name": "Кабель Type-C to IPhone 1 метр",
+    "price": 450,
+    "price5": 350,
+    "price10": 300,
+    "note": "",
+    "images": [
+      "/products/product-22-20.png"
+    ],
+    "category": "Кабели"
+  },
+  {
+    "id": "NDX-021",
+    "sourceRow": 23,
+    "name": "Кабель Usb to Lightning 1 метр",
+    "price": 300,
+    "price5": 250,
+    "price10": 200,
+    "note": "",
+    "images": [
+      "/products/product-23-21.png"
+    ],
+    "category": "Кабели"
+  },
+  {
+    "id": "NDX-022",
+    "sourceRow": 24,
+    "name": "Беспроводные наушники Pods 4 ANC (USB-C) JL",
+    "price": 1400,
+    "price5": 1200,
+    "price10": 1100,
+    "note": "",
+    "images": [
+      "/products/product-24-22.png"
+    ],
+    "category": "Наушники"
+  },
+  {
+    "id": "NDX-023",
+    "sourceRow": 25,
+    "name": "Беспроводные наушники Pods 4 ANC (USB-C) Airoha",
+    "price": 2000,
+    "price5": 1700,
+    "price10": 1500,
+    "note": "",
+    "images": [
+      "/products/product-25-23.png"
+    ],
+    "category": "Наушники"
+  },
+  {
+    "id": "NDX-024",
+    "sourceRow": 26,
+    "name": "Беспроводные наушники Pods Pro 2 Huilian 247B",
+    "price": 5000,
+    "price5": 4500,
+    "price10": 3500,
+    "note": "",
+    "images": [
+      "/products/product-26-24.png"
+    ],
+    "category": "Наушники"
+  },
+  {
+    "id": "NDX-025",
+    "sourceRow": 27,
+    "name": "Внешний аккумулятор MagSafe Battery Pack 3 000",
+    "price": 600,
+    "price5": 500,
+    "price10": 400,
+    "note": "",
+    "images": [
+      "/products/product-27-25.png"
+    ],
+    "category": "Аккумуляторы"
+  },
+  {
+    "id": "NDX-026",
+    "sourceRow": 28,
+    "name": "Беспроводные наушники Pods Pro 3 MagSafe (USB-C)",
+    "price": 2000,
+    "price5": 1700,
+    "price10": 1500,
+    "note": "",
+    "images": [
+      "/products/product-28-26.png"
+    ],
+    "category": "Наушники"
+  },
+  {
+    "id": "NDX-027",
+    "sourceRow": 29,
+    "name": "Силиконовый чехол на IPhone с открытой камерой",
+    "price": null,
+    "price5": null,
+    "price10": null,
+    "note": "",
+    "images": [
+      "/products/product-29-27.png"
+    ],
+    "category": "Чехлы и аксессуары"
+  },
+  {
+    "id": "NDX-028",
+    "sourceRow": 30,
+    "name": "Сетевое зарядное устройство 40W USB-C",
+    "price": 1000,
+    "price5": 850,
+    "price10": 750,
+    "note": "",
+    "images": [
+      "/products/product-30-28.png"
+    ],
+    "category": "Зарядки"
+  },
+  {
+    "id": "NDX-029",
+    "sourceRow": 31,
+    "name": "Беспроводные наушники Pods 4 ANC (USB-C) Airoha",
+    "price": 5000,
+    "price5": 4500,
+    "price10": 4000,
+    "note": "",
+    "images": [
+      "/products/product-31-29.png",
+      "/products/product-31-30.png"
+    ],
+    "category": "Наушники"
+  },
+  {
+    "id": "NDX-030",
+    "sourceRow": 32,
+    "name": "Плетёный кабель Type-C to Type-C 60W 1 метр",
+    "price": 450,
+    "price5": 400,
+    "price10": 300,
+    "note": "",
+    "images": [
+      "/products/product-32-31.png"
+    ],
+    "category": "Кабели"
+  },
+  {
+    "id": "NDX-031",
+    "sourceRow": 33,
+    "name": "Оригинальное сетевое зарядное устройство 20W",
+    "price": 3000,
+    "price5": 2500,
+    "price10": 2000,
+    "note": "",
+    "images": [],
+    "category": "Зарядки"
+  },
+  {
+    "id": "NDX-032",
+    "sourceRow": 34,
+    "name": "Сетевое зарядное устройство 35W 2 USB-C оригинал",
+    "price": 3500,
+    "price5": 3000,
+    "price10": 2500,
+    "note": "",
+    "images": [
+      "/products/product-34-32.png"
+    ],
+    "category": "Зарядки"
+  },
+  {
+    "id": "NDX-033",
+    "sourceRow": 35,
+    "name": "Оригинальный плетёный кабель Type-C to Type-C 1метр",
+    "price": 1000,
+    "price5": 800,
+    "price10": 700,
+    "note": "",
+    "images": [
+      "/products/product-35-33.png"
+    ],
+    "category": "Кабели"
+  },
+  {
+    "id": "NDX-034",
+    "sourceRow": 36,
+    "name": "Оригинальный плетёный кабель Type-C to Type-C 240W 2 метра",
+    "price": 2000,
+    "price5": 1800,
+    "price10": 1700,
+    "note": "",
+    "images": [
+      "/products/product-36-34.png"
+    ],
+    "category": "Кабели"
+  },
+  {
+    "id": "NDX-035",
+    "sourceRow": 37,
+    "name": "Плетёный кабель Type-C to Type-C 60W 1 метр",
+    "price": 550,
+    "price5": 500,
+    "price10": 400,
+    "note": "",
+    "images": [
+      "/products/product-37-35.png"
+    ],
+    "category": "Кабели"
+  },
+  {
+    "id": "NDX-036",
+    "sourceRow": 38,
+    "name": "Кожаный кардхолдер Leather Wallet MagSafe для iPhone",
+    "price": 500,
+    "price5": 400,
+    "price10": 300,
+    "note": "цвет и наличие \nпо запросу",
+    "images": [
+      "/products/product-38-37.png"
+    ],
+    "category": "Чехлы и аксессуары"
+  },
+  {
+    "id": "NDX-037",
+    "sourceRow": 39,
+    "name": "Оригинальный кабель Type-C to Lightning 1 метр",
+    "price": 1000,
+    "price5": 850,
+    "price10": 750,
+    "note": "",
+    "images": [
+      "/products/product-39-36.png"
+    ],
+    "category": "Кабели"
+  }
+]
